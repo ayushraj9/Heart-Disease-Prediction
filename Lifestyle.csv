@@ -1,0 +1,85 @@
+id,items,Heart,Diabetes,Asthama,Thyroid
+1,Acerola ,1,1,1,1
+2,Apple,1,1,1,1
+3,Apricots,1,1,1,1
+4,Avocado,1,1,1,1
+5,Banana,1,0,1,1
+6,Blackcurrant,1,0,1,1
+7,Breadfriut,1,1,1,0
+8,Brinjal,1,1,1,0
+9,Carambola,1,1,1,0
+10,Carrot,1,1,1,1
+11,Cherries,1,0,1,0
+12,Coconut,1,1,0,1
+13,Cranberries,1,0,1,0
+14,Cucumber,1,1,1,1
+15,Custard-Apple,1,0,1,0
+16,Date-Fruit,1,0,1,0
+17,Durian,1,1,1,1
+18,Egg,0,1,1,1
+19,Elderberries,1,0,1,1
+20,Figs,1,1,1,0
+21,Fish,0,1,0,1
+22,Gosseberries,1,0,0,0
+23,Grapefriut,1,0,0,0
+24,Grapes,1,0,0,1
+25,Guava,1,1,1,1
+26,Jackfruit,1,1,1,1
+27,Javaplum,1,1,1,1
+28,Kiwifruit,1,0,0,1
+29,Lemon,1,1,1,1
+30,Lychee,1,1,0,1
+31,Mandarian,1,1,0,0
+32,Mango,1,0,1,0
+33,Milk,1,1,1,1
+34,Mulberries,1,0,0,0
+35,Olive,1,1,1,1
+36,Orange,1,0,1,1
+37,Papaya,1,0,0,1
+38,Peaches,1,1,1,0
+39,Pear,1,1,1,1
+40,Pineapple,1,1,0,1
+41,Plums,1,1,0,1
+42,Pomegranate,1,1,0,0
+43,Prunes,1,1,1,1
+44,Radish,1,1,0,1
+45,Raspberries,1,0,0,0
+46,Strawberries,1,0,0,0
+47,Sugarapple,1,0,0,0
+48,Tamarind,1,1,1,1
+49,Tangerine,1,1,1,1
+50,Watermelon,1,0,0,0
+51,Padangusthasana,1,1,0,0
+52,Janu Sirsasana,1,1,1,0
+53,Supta Padangusthasana,1,0,0,1
+54,Setu Bandha Sarvangasana,1,0,1,1
+55,Dhanurasana,1,0,0,1
+56,Bhujangasana,1,1,1,1
+57,Paschimottanasana,1,0,1,0
+58,Sarvngasana,1,1,0,1
+59,Sukhasana,0,0,1,0
+60,Upavistha Konasana,1,1,1,1
+61,Ardha Matsyendrasana,0,0,1,0
+62,Bacon,0,1,1,0
+63,Red Meat,0,1,1,1
+64,Soda,0,0,1,0
+65,Baked Goods,0,0,1,1
+66,Sausage,0,1,1,1
+67,Salami,0,1,1,1
+68,White Rice,0,0,1,1
+69,Bread,0,0,1,0
+70,Pasta,0,0,1,0
+71,Apple Cider Vinegar,0,1,0,1
+72,Soy,0,1,0,1
+73,Butter,0,1,1,1
+74,Yogurt,0,0,1,1
+75,Vanilla,1,0,0,0
+76,Tea,1,0,1,1
+77,Honey,1,0,1,0
+78,Coffee,1,0,1,1
+79,Broccolo,1,1,1,0
+80,Spinach,1,1,1,0
+81,Pears,1,0,0,0
+82,Vitamin D,1,1,0,1
+83,Vitamin A,1,0,0,1
+84,Peanut,0,0,0,1
